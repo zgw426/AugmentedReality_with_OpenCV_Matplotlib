@@ -43,6 +43,8 @@ python 01_matplot2D_NotCamera.py
 
 Map 2D graphs in Matplotlib to AR markers in camera footage.
 
+[![](https://img.youtube.com/vi/t4DyeLGA0gk/0.jpg)](https://www.youtube.com/watch?v=t4DyeLGA0gk)
+
 execution command
 
 ```console
@@ -54,6 +56,8 @@ Quit with the q key.
 ### Step03.Mapping Matplotlib 3D graph to AR markers in camera footage
 
 Map 3D graphs in Matplotlib to AR markers in camera footage.
+
+[![](https://img.youtube.com/vi/vzQA8_DQ8tw/0.jpg)](https://www.youtube.com/watch?v=vzQA8_DQ8tw)
 
 execution command
 
@@ -67,6 +71,8 @@ Quit with the q key.
 
 Map 3D graphs in Matplotlib to AR markers in camera footage.
 Make the background of the 3D graph transparent with transparency processing.
+
+[![](https://img.youtube.com/vi/QnYwcrHeKbI/0.jpg)](https://www.youtube.com/watch?v=QnYwcrHeKbI)
 
 execution command
 
