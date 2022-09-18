@@ -24,7 +24,7 @@ Python 3.9.5
 Install the required modules with the following command.
 
 ```console
-pip install -r requirements.txt
+pip install -r requirements_fixed-version.txt
 ```
 
 ## execution
